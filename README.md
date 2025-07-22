@@ -1,7 +1,9 @@
 # 🛠️ Make Your Own
+
 Make Your Own is a collection of DIY hardware and embedded systems projects — all in one place. These open-source builds are perfect for anyone looking to get hands-on experience with electronics, firmware development, and product design.  
 Here in this repository we aim to demystify the workings of commonly used electronics by attempting to make our own versions of these everyday devices.  
 We want to keep on adding more projects with time.
+
 ---
 
 ## 🎯 Purpose
@@ -25,11 +27,11 @@ The goal of this project is to:
 | [magic-mirror](./magic-mirror) | A smart mirror that displays time, weather, calendar, and news. |
 | [alarm-clock](./alarm-clock) | A customizable smart alarm clock with sound, display, and RTC. |
 
-Each folder will contains:
-- ✅ README with build instructions
-- 🧾 Bill of Materials (BoM)
-- 💻 Firmware or software
-- 📷 Images, wiring diagrams, and PCB files (if applicable)
+Each folder contains:
+- ✅ README with build instructions  
+- 🧾 Bill of Materials (BoM)  
+- 💻 Firmware or software  
+- 📷 Images, wiring diagrams, and PCB files (if applicable)  
 
 ---
 
@@ -37,8 +39,9 @@ Each folder will contains:
 
 ### 📥 Step 1: Clone the Repository
 
-First, open your terminal and run:
+Open your terminal and run:
 
 ```bash
-git clone https://github.com/Arya-S-Patil/Make-your-own
-cd Make-Your-Own
+git clone https://github.com/Arya-S-Patil/Make-your-own.git
+cd Make-your-own
+

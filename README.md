@@ -1,6 +1,7 @@
 # 🛠️ Make Your Own
-
-**Make Your Own** is a collection of DIY hardware and embedded systems projects — all in one place. These open-source builds are perfect for anyone looking to get hands-on experience with electronics, firmware development, and product design.Here in this repository we aim to demistify the workings of the day to day used electronics by attempting to make our own versions of this commonly used electronic products. We want to keep on adding more projects with time.
+Make Your Own is a collection of DIY hardware and embedded systems projects — all in one place. These open-source builds are perfect for anyone looking to get hands-on experience with electronics, firmware development, and product design.  
+Here in this repository we aim to demystify the workings of commonly used electronics by attempting to make our own versions of these everyday devices.  
+We want to keep on adding more projects with time.
 ---
 
 ## 🎯 Purpose
